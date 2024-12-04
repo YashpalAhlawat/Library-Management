@@ -17,3 +17,15 @@ Step 3: Navigate to `http://localhost:8080/docs` for swagger to check APIs
 
 Step 4: Use username `Admin`, password : `password` for `Admin`
          Use username `Member`, password : `password` for `Member`
+
+
+### Screenshots
+![Screenshot of Swagger](assets/swagger.png)
+Postman: `token` API
+![Screenshot of Postman](assets/postman.png)
+
+Postman: `item history` API
+![Screenshot of Postman](assets/postman_item_history.png)
+
+
+
