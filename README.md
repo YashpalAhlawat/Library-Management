@@ -25,7 +25,7 @@ Postman: `token` API
 ![Screenshot of Postman](assets/postman.png)
 
 Postman: `item history` API
-![Screenshot of Postman](assets/Postman_item_history.png)
+![Screenshot of Postman](assets/Postman_Item_history.png)
 
 
 
